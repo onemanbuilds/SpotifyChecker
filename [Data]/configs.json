@@ -1,0 +1,7 @@
+{
+    "use_proxy":1,
+    "proxy_type":2,
+    "threads":300,
+    "webhook_enable":1,
+    "webhook_url":"https://discord.com/api/webhooks/800484519832453141/uW-rdtpxYl9QQv4fZ4XqSGETBBYkEyPHkd44wd0XnHtOJD78LGkPQCZUs-cf5vrFX-ec"
+}
