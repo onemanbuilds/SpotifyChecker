@@ -2,6 +2,7 @@
  Simple tool which checks if a spotify account is valid or not.
 
 # Installation
+ Make sure you have python 3.8.7 or higher.
 ```
 pip3 install -r requirements.txt
 ``` 
